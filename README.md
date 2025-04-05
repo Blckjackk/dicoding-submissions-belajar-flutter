@@ -1,19 +1,31 @@
+# Dicoding Flutter Submission: Belajar Flutter
 
-# dicoding-submissions-belajar-flutter
-=======
-# tempat_kuliner_nongkrong
+Aplikasi ini adalah hasil submission untuk kursus *Belajar Flutter* di Dicoding. Aplikasi ini bertujuan untuk membantu pengguna belajar mengenai Flutter melalui implementasi aplikasi yang sederhana dan mudah dipahami.
 
-A new Flutter project.
+## Deskripsi
 
-## Getting Started
+Aplikasi ini dibuat dengan menggunakan Flutter dan berfokus pada penggunaan widget dasar untuk membangun antarmuka pengguna yang responsif dan interaktif. Fitur utama aplikasi meliputi:
+- Menampilkan data yang relevan dan terstruktur dengan baik.
+- Desain antarmuka pengguna yang bersih dan mudah digunakan.
+- Implementasi halaman utama dan halaman detail untuk informasi yang lebih mendalam.
 
-This project is a starting point for a Flutter application.
+## Fitur
+- **Halaman Utama:** Menampilkan daftar koleksi dan informasi dasar tentang Perpustakaan.
+- **Halaman Detail:** Memberikan informasi lebih lanjut mengenai setiap koleksi atau buku yang ada.
+- **Filter:** Memudahkan pengguna untuk mencari koleksi berdasarkan kategori atau nama.
+- **Rating dan Fasilitas:** Pengguna dapat melihat rating dan fasilitas yang tersedia di tempat tersebut.
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi yang Digunakan
+- **Flutter**: Framework UI untuk membangun aplikasi mobile yang cepat dan fleksibel.
+- **Dart**: Bahasa pemrograman yang digunakan untuk mengembangkan aplikasi Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cara Instalasi dan Penggunaan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Persyaratan
+- **Flutter**: Pastikan Anda sudah menginstal Flutter di komputer Anda. Anda dapat mengunduh Flutter di [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install).
+- **Dart**: Dart sudah terintegrasi dengan Flutter, jadi Anda tidak perlu menginstalnya secara terpisah.
+
+### Instalasi
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/Blckjackk/dicoding-submissions-belajar-flutter.git
